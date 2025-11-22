@@ -1,3 +1,4 @@
 .venv
 rag_1.txt
 __pycache__/
+rag_full_system_summary.txt
