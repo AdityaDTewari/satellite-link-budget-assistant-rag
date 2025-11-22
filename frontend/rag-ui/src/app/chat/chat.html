@@ -1,0 +1,29 @@
+<div class="chat-container">
+  <div class="messages" aria-live="polite">
+    <div *ngFor="let m of messages" class="message" [ngClass]="{
+          'user': isUser(m),
+          'assistant': isAssistant(m),
+          'system': isSystem(m)
+        }">
+      <div class="meta">
+        <span class="role">{{ m.role }}</span>
+        <span class="time">{{ m.time ? (m.time | date:'short') : '' }}</span>
+      </div>
+      <div class="text" [innerText]="m.text"></div>
+    </div>
+  </div>
+
+  <form (ngSubmit)="send()" class="composer" autocomplete="off">
+    <input
+      name="message"
+      type="text"
+      [(ngModel)]="input"
+      placeholder="Ask about link budgets, FSPL, antenna gain..."
+      [disabled]="loading"
+      required
+    />
+    <button type="submit" [disabled]="loading || !input.trim()">Send</button>
+  </form>
+
+  <div *ngIf="loading" class="loading-indicator">Thinking…</div>
+</div>
