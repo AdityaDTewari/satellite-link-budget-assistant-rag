@@ -1,2 +1,3 @@
 .venv
 rag_1.txt
+__pycache__/
