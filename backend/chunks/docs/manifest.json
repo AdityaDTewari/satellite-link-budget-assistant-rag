@@ -1,0 +1,62 @@
+[
+  {
+    "source": "link-budgets-snr.pdf",
+    "out": "/home/aditya/Documents/projects/satellite-link-budget-assistant-rag/backend/chunks/docs/link-budgets-snr.json"
+  },
+  {
+    "source": "nasa-compendium-of-satellite-communications-programs.pdf",
+    "out": "/home/aditya/Documents/projects/satellite-link-budget-assistant-rag/backend/chunks/docs/nasa-compendium-of-satellite-communications-programs.json"
+  },
+  {
+    "source": "R-REC-S.1528-0-200106-I!!PDF-E.pdf",
+    "out": "/home/aditya/Documents/projects/satellite-link-budget-assistant-rag/backend/chunks/docs/R-REC-S.1528-0-200106-I!!PDF-E.json"
+  },
+  {
+    "source": "R-REC-P.618-14-202308-I!!PDF-E.pdf",
+    "out": "/home/aditya/Documents/projects/satellite-link-budget-assistant-rag/backend/chunks/docs/R-REC-P.618-14-202308-I!!PDF-E.json"
+  },
+  {
+    "source": "link-budget-calc.pdf",
+    "out": "/home/aditya/Documents/projects/satellite-link-budget-assistant-rag/backend/chunks/docs/link-budget-calc.json"
+  },
+  {
+    "source": "R-REC-P.676-13-202208-I!!PDF-E.pdf",
+    "out": "/home/aditya/Documents/projects/satellite-link-budget-assistant-rag/backend/chunks/docs/R-REC-P.676-13-202208-I!!PDF-E.json"
+  },
+  {
+    "source": "nasa-estimation-of-microwave-propgation-effects.pdf",
+    "out": "/home/aditya/Documents/projects/satellite-link-budget-assistant-rag/backend/chunks/docs/nasa-estimation-of-microwave-propgation-effects.json"
+  },
+  {
+    "source": "nasa-suitability-of-ansi-standards.pdf",
+    "out": "/home/aditya/Documents/projects/satellite-link-budget-assistant-rag/backend/chunks/docs/nasa-suitability-of-ansi-standards.json"
+  },
+  {
+    "source": "link-budget-analysis.pdf",
+    "out": "/home/aditya/Documents/projects/satellite-link-budget-assistant-rag/backend/chunks/docs/link-budget-analysis.json"
+  },
+  {
+    "source": "nasa-propagation-effects-handbook-sat-sys-design.pdf",
+    "out": "/home/aditya/Documents/projects/satellite-link-budget-assistant-rag/backend/chunks/docs/nasa-propagation-effects-handbook-sat-sys-design.json"
+  },
+  {
+    "source": "R-REC-P.838-3-200503-I!!PDF-E.pdf",
+    "out": "/home/aditya/Documents/projects/satellite-link-budget-assistant-rag/backend/chunks/docs/R-REC-P.838-3-200503-I!!PDF-E.json"
+  },
+  {
+    "source": "small-satellite-link-budget-calculation.pdf",
+    "out": "/home/aditya/Documents/projects/satellite-link-budget-assistant-rag/backend/chunks/docs/small-satellite-link-budget-calculation.json"
+  },
+  {
+    "source": "nasa-tracking-and-data-relay-satellite-system-user-impact.pdf",
+    "out": "/home/aditya/Documents/projects/satellite-link-budget-assistant-rag/backend/chunks/docs/nasa-tracking-and-data-relay-satellite-system-user-impact.json"
+  },
+  {
+    "source": "introduction-to-satellite-communications-technology-for-nres.pdf",
+    "out": "/home/aditya/Documents/projects/satellite-link-budget-assistant-rag/backend/chunks/docs/introduction-to-satellite-communications-technology-for-nres.json"
+  },
+  {
+    "source": "nasa-design-analysis-communication-payloads-for-satellites.pdf",
+    "out": "/home/aditya/Documents/projects/satellite-link-budget-assistant-rag/backend/chunks/docs/nasa-design-analysis-communication-payloads-for-satellites.json"
+  }
+]
